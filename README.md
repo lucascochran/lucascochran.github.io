@@ -1,12 +1,12 @@
-### Education
-**Virginia Tech**
+#### Technical Skills: Python
 
-Bachelors in Mechanical Engineering, 2022
+## Education
+- B.S. Mechanical Engineering | Virginia Tech (_May 2022_)
 
-### Work Experience
+## Work Experience
 **Guidehouse**
 
 Energy Efficiency Consultant
 * Support the Department of Energy's Appliance Standards Program
 
-### Projects
+## Projects
